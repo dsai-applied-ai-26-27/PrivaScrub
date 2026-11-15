@@ -1,3 +1,6 @@
 cv2
 numpy
 matplotlib
+datasets 
+pillow 
+ 
