@@ -1,2 +1,6 @@
-data/raw/
+# Ignore all files in data/raw
+data/raw/*
+# But keep the .gitkeep file
+!data/raw/.gitkeep
+
 notebooks/*.py
