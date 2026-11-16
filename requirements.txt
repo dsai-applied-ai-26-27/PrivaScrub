@@ -1,6 +1,31 @@
-cv2
+# Core Data Science & Visualization
 numpy
+pandas
 matplotlib
-datasets 
-pillow 
- 
+scipy
+
+# Image Processing & Computer Vision
+opencv-python
+Pillow
+scikit-image
+
+# Hugging Face Dataset Loading
+datasets
+huggingface-hub
+
+# Deep Learning (PyTorch)
+torch
+torchvision
+segmentation-models-pytorch  # Essential for easy U-Net training
+
+# Enhancement Attack (Real-ESRGAN)
+basicsr
+realesrgan
+
+# Metadata Scrubbing
+piexif
+ExifRead
+
+# Utilities
+tqdm
+jupyter
